@@ -9,12 +9,10 @@
 // orientada a Objeto
 public class Empleado extends Persona
 {
-    // instance variables - replace the example below with your own
+    
    
-
-    /**
-     * Constructor for objects of class Empleado
-     */
+    //Agregando propiedades propias de la clase Empleado
+    String codigoEmpleado;
     public Empleado()
     {
       

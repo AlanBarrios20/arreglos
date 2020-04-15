@@ -7,6 +7,7 @@
  */
 public class Persona
 {
+   // Propiedades caracteristicas de una Persona 
    String nombre;
    String apellido;
    String telefono;
